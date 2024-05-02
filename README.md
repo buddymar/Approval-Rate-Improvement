@@ -8,13 +8,13 @@
 <br>
 
 **Table of Contents**
-- [Introduction]()
-- [Define]()
-- [Measure]()
-- [Analyze]()
-- [Improvement]()
-- [Control]()
-- [Project Results & Impacts]()
+- [Introduction](https://github.com/buddymar/Approval-Rate-Improvement/blob/main/README.md#-introduction)
+- [Define](https://github.com/buddymar/Approval-Rate-Improvement/blob/main/README.md#-define)
+- [Measure](https://github.com/buddymar/Approval-Rate-Improvement/blob/main/README.md#-measure)
+- [Analyze](https://github.com/buddymar/Approval-Rate-Improvement/blob/main/README.md#-analyze)
+- [Improvement](https://github.com/buddymar/Approval-Rate-Improvement/blob/main/README.md#-improvement)
+- [Control](https://github.com/buddymar/Approval-Rate-Improvement/blob/main/README.md#-control)
+- [Project Results & Impacts](https://github.com/buddymar/Approval-Rate-Improvement/blob/main/README.md#-project-results--impacts)
 
 <br>
 
