@@ -26,7 +26,7 @@
     <kbd> <img width="1000" alt="mvp banner" src="https://raw.githubusercontent.com/buddymar/Approval-Rate-Improvement/main/assets/showroom_motor.jpg"> </kbd> <br>
 </p>
 
-Di dalam industri pembiayaan sepeda motor yang dinamis, meningkatkan *approval rate* menjadi krusial untuk keberhasilan bisnis dan kepuasan pelanggan. Melalui penerapan framework DMAIC (Define, Measure, Analyze, Improve, Control), proyek ini bertujuan untuk meningkatkan persetujuan dalam lini bisnis kredit sepeda motor baru. Dengan menganalisis proses yang ada, mengidentifikasi titik-titik masalah, dan mengimplementasikan perbaikan yang tepat, saya berupaya untuk menyempurnakan operasional, mengurangi risiko, dan meningkatkan kepuasaan pelanggan. Proyek ini memberikan solusi yang komprehensif untuk mengatasi tantangan dalam meningkatkan *approval rate*, sambil mengoptimalkan efisiensi organisasi dan memberikan layanan terbaik kepada pelanggan.
+Di dalam industri pembiayaan sepeda motor yang dinamis, meningkatkan *approval rate* menjadi krusial untuk keberhasilan bisnis dan kepuasan pelanggan. Melalui penerapan framework DMAIC (Define, Measure, Analyze, Improve, Control), proyek ini bertujuan untuk meningkatkan persetujuan dalam lini bisnis kredit sepeda motor baru di cabang Praya. Dengan menganalisis proses yang ada, mengidentifikasi titik-titik masalah, dan mengimplementasikan perbaikan yang tepat, saya dan tim berupaya untuk menyempurnakan operasional, mengurangi risiko kerugian bisnis, dan meningkatkan kepuasaan pelanggan. Proyek ini dikerjakan untuk memberikan solusi yang komprehensif untuk mengatasi tantangan dalam meningkatkan *approval rate*, sambil mengoptimalkan efisiensi organisasi cabang dan memberikan layanan terbaik kepada pelanggan.
 
 <br>
 
